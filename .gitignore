@@ -1,0 +1,9 @@
+# Dev container
+project/metals.sbt
+/.bloop
+/.metals
+
+# Framework
+RUNNING_PID
+logs
+target
