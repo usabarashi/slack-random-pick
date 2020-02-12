@@ -10,7 +10,7 @@ $ sbt run
 
 # Endpoint
 
-- http://localhost:9000/randompick
+- http://localhost:9000/random-pick
   - slackApiToken: 設定したSlackAPIトークン
   - pickUpNum: ピックアップしたい人数
   - channelId: ピックアップ対象のチャンネルID
@@ -45,4 +45,4 @@ Error case
 - [sbt](https://www.scala-sbt.org/index.html)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
-- [Metals](https://scalameta.org/metals/
+- [Metals](https://scalameta.org/metals/)
